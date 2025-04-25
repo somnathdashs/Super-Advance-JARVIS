@@ -7,4 +7,8 @@ while True:
     if (command):
         jarvis.get_response(command)
     else:
-        print("No, command found.")
+        print("No, command found.",sep="\t")
+
+
+
+
